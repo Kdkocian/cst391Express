@@ -1,0 +1,61 @@
+[2022-4-24 19:41:22]: [DEBUG]: Closing the connection 
+[2022-4-24 19:41:22]: [DEBUG]: Rows length: undefined 
+[2022-4-24 19:42:15]: [DEBUG]: Closing the connection 
+[2022-4-24 19:42:43]: [DEBUG]: Closing the connection 
+[2022-4-24 19:45:19]: [DEBUG]: Closing the connection 
+[2022-4-24 19:45:20]: [DEBUG]: Rows length: 1 
+[2022-4-24 20:30:57]: [DEBUG]: Closing the connection 
+[2022-4-24 20:33:8]: [DEBUG]: Closing the connection 
+[2022-4-24 20:53:11]: [DEBUG]: Closing the connection 
+[2022-4-24 20:55:6]: [DEBUG]: [object Object] 
+[2022-4-24 20:55:6]: [DEBUG]: Closing the connection 
+[2022-4-24 21:0:18]: [DEBUG]: Closing the connection 
+[2022-4-24 21:1:33]: [DEBUG]: entering post function 
+[2022-4-24 21:1:33]: [DEBUG]: Closing the connection 
+[2022-4-24 21:1:33]: [DEBUG]: [object Object] 
+[2022-4-24 21:3:5]: [DEBUG]: entering post function 
+[2022-4-24 21:3:5]: [DEBUG]: Game Id: [object Object] 
+[2022-4-24 21:3:5]: [DEBUG]: Closing the connection 
+[2022-4-24 21:7:16]: [DEBUG]: Closing the connection 
+[2022-4-24 21:7:38]: [DEBUG]: Closing the connection 
+[2022-4-24 21:8:24]: [DEBUG]: Closing the connection 
+[2022-4-24 21:9:53]: [DEBUG]: Closing the connection 
+[2022-4-24 21:18:23]: [DEBUG]: Closing the connection 
+[2022-4-24 21:19:15]: [DEBUG]: Closing the connection 
+[2022-4-24 21:21:34]: [DEBUG]: Closing the connection 
+[2022-4-24 21:22:13]: [DEBUG]: entering post function 
+[2022-4-24 21:22:13]: [DEBUG]: Game Id: [object Object] 
+[2022-4-24 21:22:13]: [DEBUG]: Closing the connection 
+[2022-4-24 21:23:23]: [DEBUG]: entering post function 
+[2022-4-24 21:23:23]: [DEBUG]: Game Id: [object Object] 
+[2022-4-24 21:23:23]: [DEBUG]: Closing the connection 
+[2022-4-24 21:29:8]: [DEBUG]: entering post function 
+[2022-4-24 21:29:8]: [DEBUG]: Game Id: [object Object] 
+[2022-4-24 21:30:14]: [DEBUG]: Game Id: [object Object] 
+[2022-4-24 21:30:14]: [DEBUG]: entering post function 
+[2022-4-24 21:30:14]: [DEBUG]: Closing the connection 
+[2022-4-24 21:32:8]: [DEBUG]: entering post function 
+[2022-4-24 21:32:8]: [DEBUG]: Game Id: [object Object] 
+[2022-4-24 21:32:9]: [DEBUG]: Closing the connection 
+[2022-4-24 21:33:36]: [DEBUG]: Game Id: [object Object] 
+[2022-4-24 21:33:36]: [DEBUG]: entering post function 
+[2022-4-24 21:33:36]: [DEBUG]: Closing the connection 
+[2022-4-24 21:40:12]: [DEBUG]: entering post function 
+[2022-4-24 21:40:12]: [DEBUG]: Game Id: [object Object] 
+[2022-4-24 21:40:12]: [DEBUG]: Closing the connection 
+[2022-4-24 21:41:22]: [DEBUG]: entering post function 
+[2022-4-24 21:41:22]: [DEBUG]: Game Id: [object Object] 
+[2022-4-24 21:41:22]: [DEBUG]: Closing the connection 
+[2022-4-24 21:41:46]: [DEBUG]: entering post function 
+[2022-4-24 21:41:46]: [DEBUG]: Game Id: [object Object] 
+[2022-4-24 21:41:46]: [DEBUG]: Closing the connection 
+[2022-4-24 21:44:15]: [DEBUG]: entering post function 
+[2022-4-24 21:44:15]: [DEBUG]: Game Id: [object Object] 
+[2022-4-24 21:44:15]: [DEBUG]: Closing the connection 
+[2022-4-24 21:55:10]: [DEBUG]: entering post function 
+[2022-4-24 21:55:10]: [DEBUG]: Game Id: [object Object] 
+[2022-4-24 21:55:10]: [DEBUG]: Closing the connection 
+[2022-4-24 21:58:45]: [DEBUG]: Closing the connection 
+[2022-4-24 21:59:27]: [DEBUG]: Closing the connection 
+[2022-4-24 22:4:12]: [DEBUG]: Closing the connection 
+[2022-4-24 22:4:12]: [DEBUG]: Rows length: 1 
